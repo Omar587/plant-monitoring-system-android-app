@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/cmpt496/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.171484375" />
+        <entry key="..\:/cmpt496/app/src/main/res/drawable/ic_launcher_background.xml" value="0.171484375" />
+        <entry key="..\:/cmpt496/app/src/main/res/drawable/menu_btn.xml" value="0.171484375" />
+        <entry key="..\:/cmpt496/app/src/main/res/drawable/more_vertical.xml" value="0.171484375" />
+        <entry key="..\:/cmpt496/app/src/main/res/layout/activity_main.xml" value="0.11587301587301588" />
+        <entry key="..\:/cmpt496/app/src/main/res/layout/activity_update_plant.xml" value="0.11171875" />
+        <entry key="..\:/cmpt496/app/src/main/res/layout/adding_plant_form.xml" value="0.22" />
+        <entry key="..\:/cmpt496/app/src/main/res/layout/config.xml" value="0.10703125" />
+        <entry key="..\:/cmpt496/app/src/main/res/layout/home_screen_activity.xml" value="0.33" />
+        <entry key="..\:/cmpt496/app/src/main/res/layout/meters.xml" value="0.25" />
+        <entry key="..\:/cmpt496/app/src/main/res/layout/spinner_color.xml" value="0.155859375" />
+        <entry key="..\:/cmpt496/app/src/main/res/layout/toolbar.xml" value="0.21" />
+        <entry key="..\:/cmpt496/app/src/main/res/layout/tower_list.xml" value="0.11171875" />
+        <entry key="..\:/cmpt496/app/src/main/res/menu/drawer.xml" value="0.21640625" />
+        <entry key="..\:/cmpt496/app/src/main/res/menu/popup_menu.xml" value="0.21640625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
