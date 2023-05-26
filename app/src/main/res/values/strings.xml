@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cmpt496</string>
+    <string-array name="towers_Array">
+        <item>Plant Group 1: Tomatoes</item>
+        <item>Plant Group 2: Tomatoes </item>
+        <item>Plant Group 3: Cabbage</item>
+    </string-array>
+
+</resources>
